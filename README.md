@@ -3,7 +3,9 @@ To Do List with Reminder Notifications
 
 This is a basic to-do list that I created for my personal use in Python using Tkinter and win10toast libraries. It saves tasks from the user to a .dat file (tasks.dat) which must be saved in the same folder as the .exe or source code (or .py file)
 
-Use .exe for practical use or to-do-1.py to edit the code.
+Use .exe for practical use and copy provided shortcut to desktop. 
+
+Use to-do-1.py to edit the code.
 
 Reminders can be enabled from the menu bar that by default occur ever hour in the form of Windows notifications. It also informs the user of how many tasks are on the list at the time. 
 
