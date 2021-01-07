@@ -5,7 +5,7 @@ Note: Ensure that .exe or .py are in the same folder as image files and .dat fil
 
 This is a basic to-do list that I created for my personal use in Python using Tkinter and win10toast libraries. It saves tasks from the user to a .dat file (tasks.dat) which must be saved in the same folder as the .exe or source code (or .py file)
 
-Use .exe for practical use and copy provided shortcut to desktop.
+Use .exe for practical use and right click to create shortcut to desktop.
 
 Use to-do-1.py to edit the code.
 
