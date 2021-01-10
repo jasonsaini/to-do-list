@@ -58,7 +58,7 @@ def remind(event = None):
     n = ToastNotifier()
     message = f"You have {str(num_tasks)} items on your To-Do list!"
     n.show_toast("REMINDER", message, duration=10, threaded=True, icon_path= "icon.ico")
-    root.after(360000, remind)
+    root.after(3600000, remind)
 
 # Exit behavior (on window close)
 def on_exit(event = None):
